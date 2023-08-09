@@ -1,0 +1,18 @@
+Project Requirements:
+
+1. All soccer game information from individual to all other domestic leagues, past matches, upcoming matches, 
+
+2. Player informtaion, player potrait, goals scored, matches played, age, other stats
+
+3. Top 10 scorers displayed on the website with live update on the leaderboard
+
+4. Sort, Search and Filter option for the user to search specific matches and their detail with individual player stats etc.
+
+5. Feedback 
+
+6. Contact
+
+
+
+
+
